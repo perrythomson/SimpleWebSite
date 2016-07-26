@@ -1,5 +1,20 @@
-table{border: #3cff14}
-
-th{font-size: 25px;
-    font-color:green;
+a {background-color: aliceblue; color:red; /*this is for the Form and Index*/
 }
+
+img {width:75px; /*this is for the wikipedia link pictures*/
+    height:35px;
+}
+
+/*table{ width:500px;
+    height:300px;
+    align:right;
+    border:1px;
+    background-color:lightgreen;
+    font-family: cursive;
+}*/
+
+/*table, thead, th{colspan:5;
+    font-size: 15px; } */
+
+
+tbody, div div tr { background-color:powderblue ; }
